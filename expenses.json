@@ -1,0 +1,20 @@
+[
+    {
+        "title": "tea",
+        "category": "food",
+        "amount": 10.0,
+        "date": "2025-08-27 05:14:27"
+    },
+    {
+        "title": "coeffe",
+        "category": "food",
+        "amount": 50.0,
+        "date": "2025-08-27 05:18:15"
+    },
+    {
+        "title": "bus ticket",
+        "category": "travel",
+        "amount": 20.0,
+        "date": "2025-08-27 05:18:36"
+    }
+]
